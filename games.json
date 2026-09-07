@@ -1,0 +1,76 @@
+{
+    "games": [
+        {
+            "name": "Call of Duty: Modern Warfare",
+            "app_id": 2000950,
+            "target_discount": 90,
+            "max_price": 600
+        },
+        {
+            "name": "Ghost of Tsushima DIRECTOR'S CUT",
+            "app_id": 2215430,
+            "target_discount": 75,
+            "max_price": 2000
+        },
+        {
+            "name": "The Last of Us™ Part I",
+            "app_id": 1888930,
+            "target_discount": 75,
+            "max_price": 2000
+        },
+        {
+            "name": "The Last of Us™ Part II",
+            "app_id": 2531310,
+            "target_discount": 75,
+            "max_price": 2000
+        },
+        {
+            "name": "Resident Evil: Village",
+            "app_id": 1196590,
+            "target_discount": 75,
+            "max_price": 600
+        },
+        {
+            "name": "Marvel's Spider-Man 2",
+            "app_id": 2651280,
+            "target_discount": 75,
+            "max_price": 2000
+        },
+        {
+            "name": "Detroit: Become Human",
+            "app_id": 1222140,
+            "target_discount": 90,
+            "max_price": 200
+        },
+        {
+            "name": "Resident Evil: Requiem",
+            "app_id": 3764200,
+            "target_discount": 50,
+            "max_price": 2000
+        },
+        {
+            "name": "UNCHARTED™: Legacy of Thieves Collection",
+            "app_id": 1659420,
+            "target_discount": 75,
+            "max_price": 1100
+        },
+        {
+            "name": "Resident Evil 2",
+            "app_id": 883710,
+            "target_discount": 75,
+            "max_price": 500
+        },
+        {
+            "name": "Resident Evil 3",
+            "app_id": 952060,
+            "target_discount": 90,
+            "max_price": 250
+        },
+        {
+            "name": "Resident Evil 7 Biohazard",
+            "app_id": 418370,
+            "target_discount": 75,
+            "max_price": 440
+        }
+    ]
+}
