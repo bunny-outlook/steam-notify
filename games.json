@@ -3,8 +3,8 @@
         {
             "name": "Call of Duty: Modern Warfare",
             "app_id": 2000950,
-            "target_discount": 90,
-            "max_price": 600
+            "target_discount": 75,
+            "max_price": 2000
         },
         {
             "name": "Ghost of Tsushima DIRECTOR'S CUT",
