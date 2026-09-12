@@ -25,12 +25,6 @@
             "max_price": 2000
         },
         {
-            "name": "Resident Evil: Village",
-            "app_id": 1196590,
-            "target_discount": 75,
-            "max_price": 600
-        },
-        {
             "name": "Marvel's Spider-Man 2",
             "app_id": 2651280,
             "target_discount": 75,
@@ -53,24 +47,6 @@
             "app_id": 1659420,
             "target_discount": 75,
             "max_price": 1100
-        },
-        {
-            "name": "Resident Evil 2",
-            "app_id": 883710,
-            "target_discount": 75,
-            "max_price": 500
-        },
-        {
-            "name": "Resident Evil 3",
-            "app_id": 952060,
-            "target_discount": 90,
-            "max_price": 300
-        },
-        {
-            "name": "Resident Evil 7 Biohazard",
-            "app_id": 418370,
-            "target_discount": 75,
-            "max_price": 500
         }
     ]
 }
