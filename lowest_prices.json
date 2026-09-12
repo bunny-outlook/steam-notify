@@ -1,0 +1,98 @@
+{
+  "2000950": {
+    "name": "Call of Duty: Modern Warfare",
+    "lowest_price": 1349.0,
+    "lowest_discount": 75,
+    "lowest_price_date": "2026-09-12 04:49:41",
+    "highest_discount": 75,
+    "last_checked": "2026-09-12 04:49:41",
+    "alert_active": false,
+    "last_alert_date": null,
+    "last_alerted_price": null,
+    "last_alerted_discount": null
+  },
+  "2215430": {
+    "name": "Ghost of Tsushima DIRECTOR'S CUT",
+    "lowest_price": 3999.0,
+    "lowest_discount": 0,
+    "lowest_price_date": "2026-09-12 04:49:41",
+    "highest_discount": 0,
+    "last_checked": "2026-09-12 04:49:41",
+    "alert_active": false,
+    "last_alert_date": null,
+    "last_alerted_price": null,
+    "last_alerted_discount": null
+  },
+  "1888930": {
+    "name": "The Last of Us™ Part I",
+    "lowest_price": 3999.0,
+    "lowest_discount": 0,
+    "lowest_price_date": "2026-09-12 04:49:41",
+    "highest_discount": 0,
+    "last_checked": "2026-09-12 04:49:41",
+    "alert_active": false,
+    "last_alert_date": null,
+    "last_alerted_price": null,
+    "last_alerted_discount": null
+  },
+  "2531310": {
+    "name": "The Last of Us™ Part II",
+    "lowest_price": 3299.0,
+    "lowest_discount": 0,
+    "lowest_price_date": "2026-09-12 04:49:42",
+    "highest_discount": 0,
+    "last_checked": "2026-09-12 04:49:42",
+    "alert_active": false,
+    "last_alert_date": null,
+    "last_alerted_price": null,
+    "last_alerted_discount": null
+  },
+  "2651280": {
+    "name": "Marvel's Spider-Man 2",
+    "lowest_price": 3999.0,
+    "lowest_discount": 0,
+    "lowest_price_date": "2026-09-12 04:49:42",
+    "highest_discount": 0,
+    "last_checked": "2026-09-12 04:49:42",
+    "alert_active": false,
+    "last_alert_date": null,
+    "last_alerted_price": null,
+    "last_alerted_discount": null
+  },
+  "1222140": {
+    "name": "Detroit: Become Human",
+    "lowest_price": 1999.0,
+    "lowest_discount": 0,
+    "lowest_price_date": "2026-09-12 04:49:42",
+    "highest_discount": 0,
+    "last_checked": "2026-09-12 04:49:42",
+    "alert_active": false,
+    "last_alert_date": null,
+    "last_alerted_price": null,
+    "last_alerted_discount": null
+  },
+  "3764200": {
+    "name": "Resident Evil: Requiem",
+    "lowest_price": 3079.0,
+    "lowest_discount": 30,
+    "lowest_price_date": "2026-09-12 04:49:42",
+    "highest_discount": 30,
+    "last_checked": "2026-09-12 04:49:42",
+    "alert_active": false,
+    "last_alert_date": null,
+    "last_alerted_price": null,
+    "last_alerted_discount": null
+  },
+  "1659420": {
+    "name": "UNCHARTED™: Legacy of Thieves Collection",
+    "lowest_price": 3299.0,
+    "lowest_discount": 0,
+    "lowest_price_date": "2026-09-12 04:49:42",
+    "highest_discount": 0,
+    "last_checked": "2026-09-12 04:49:42",
+    "alert_active": false,
+    "last_alert_date": null,
+    "last_alerted_price": null,
+    "last_alerted_discount": null
+  }
+}
