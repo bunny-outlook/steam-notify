@@ -25,6 +25,12 @@
             "max_price": 2000
         },
         {
+            "name": "Marvel's Spider-Man Remastered",
+            "app_id": 1817070,
+            "target_discount": 75,
+            "max_price": 2000
+        },
+        {
             "name": "Marvel's Spider-Man 2",
             "app_id": 2651280,
             "target_discount": 75,
@@ -37,16 +43,28 @@
             "max_price": 200
         },
         {
+            "name": "UNCHARTED™: Legacy of Thieves Collection",
+            "app_id": 1659420,
+            "target_discount": 75,
+            "max_price": 1100
+        },
+        {
             "name": "Resident Evil: Requiem",
             "app_id": 3764200,
             "target_discount": 50,
             "max_price": 2000
         },
         {
-            "name": "UNCHARTED™: Legacy of Thieves Collection",
-            "app_id": 1659420,
-            "target_discount": 75,
-            "max_price": 1100
+            "name": "Life is Strange: Before the Storm",
+            "app_id": 554620,
+            "target_discount": 80,
+            "max_price": 100
+        },
+        {
+            "name": "God of War",
+            "app_id": 1593500,
+            "target_discount": 80,
+            "max_price": 1000
         }
     ]
 }
