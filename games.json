@@ -1,16 +1,28 @@
 {
     "games": [
         {
-            "name": "Call of Duty: Modern Warfare",
+            "name": "Call of Duty: Modern Warfare (2019)",
             "app_id": 2000950,
             "target_discount": 90,
             "max_price": 600
         },
         {
+            "name": "Call of Duty: Modern Warfare II (2022)",
+            "app_id": 3595230,
+            "target_discount": 90,
+            "max_price": 600
+        },
+        {
+            "name": "Call of Duty: Modern Warfare III (2023)",
+            "app_id": 3595270,
+            "target_discount": 90,
+            "max_price": 600
+        },
+        {
             "name": "Ghost of Tsushima DIRECTOR'S CUT",
-            "app_id": 2215430,
-            "target_discount": 75,
-            "max_price": 2000
+            "app_id": 3595230,
+            "target_discount": 90,
+            "max_price": 500
         },
         {
             "name": "The Last of Us™ Part I",
