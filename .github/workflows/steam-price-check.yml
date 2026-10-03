@@ -2,7 +2,7 @@ name: Steam Price Tracker
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0,8,16 * * *"
       timezone: "Asia/Kolkata"
 
   workflow_dispatch:
