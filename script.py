@@ -706,7 +706,7 @@ def send_email(games_to_alert):
     message = EmailMessage()
 
     message["Subject"] = subject
-    message["From"] = EMAIL_USERNAME
+    message["From"] = f"Steam Price Alert <{EMAIL_USERNAME}>"
     message["To"] = EMAIL_TO
 
     # Plain-text fallback
