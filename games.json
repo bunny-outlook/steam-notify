@@ -21,8 +21,14 @@
         {
             "name": "Ghost of Tsushima DIRECTOR'S CUT",
             "app_id": 3595230,
-            "target_discount": 90,
-            "max_price": 500
+            "target_discount": 75,
+            "max_price": 2000
+        },
+        {
+            "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+            "app_id": 814380,
+            "target_discount": 75,
+            "max_price": 2000
         },
         {
             "name": "The Last of Us™ Part I",
