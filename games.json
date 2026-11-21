@@ -85,30 +85,6 @@
             "max_price": 1000
         },
         {
-            "name": "Battlefield™ 1",
-            "app_id": 1238840,
-            "target_discount": 95,
-            "max_price": 150
-        },
-        {
-            "name": "Battlefield 3™",
-            "app_id": 1238820,
-            "target_discount": 95,
-            "max_price": 150
-        },
-        {
-            "name": "Battlefield 4™",
-            "app_id": 1238860,
-            "target_discount": 95,
-            "max_price": 150
-        },
-        {
-            "name": "Battlefield™ V",
-            "app_id": 1238810,
-            "target_discount": 95,
-            "max_price": 150
-        },
-        {
             "name": "Battlefield™ 6",
             "app_id": 2807960,
             "target_discount": 90,
